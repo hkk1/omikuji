@@ -12,5 +12,7 @@ elif i == 1:
 	print(u'中吉')
 elif i == 2:
 	print(u'吉')
+else i == 3:
+	print(u'凶')
 	
 	
